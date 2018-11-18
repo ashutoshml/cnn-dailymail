@@ -5,3 +5,4 @@ data/*
 stanford-corenlp-full-2018-10-05/
 stanford-corenlp-full-2018-10-05.zip
 mapping.txt
+tokenized_files/*
